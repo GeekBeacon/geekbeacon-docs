@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+    - "12.1.0"
+before_script:
+    - yarn install
+script:
+    - yarn build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  repo: GeekBeacon/geekbeacon.github.io
+  keep_history: true
+  target_branch: master
+  verbose: true
+  local_dir: build
+  on:
+    branch: master
