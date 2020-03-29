@@ -1,6 +1,11 @@
+---
+id: email_setup_guide
+title: Email Setup Guide
+sidebar_label: Email Setup Guide
+---
 # Email Guide 
 
-![Seperator](../assets/shared/separators.png)
+![Seperator](/img/shared/separators.png)
 
 How to setup your geek beacon account.
 
@@ -10,26 +15,26 @@ How to setup your geek beacon account.
       * User_name will be your user [ at ] esamir.com
       * Use the password provided
 
-![Screen 1](../assets/email_guide/screen1.png)
+![Screen 1](/img/email_guide/screen1.png)
 
   2. Add the Geek Beacon Alias
   
     * GoTo Settings/Accounts
 
-![Screen 2](../assets/email_guide/screen2.png)
+![Screen 2](/img/email_guide/screen2.png)
 
   3. Click on Accounts
   
-![Screen 3](../assets/email_guide/screen3.png)
+![Screen 3](/img/email_guide/screen3.png)
 
   4. Enter your geekbeacon address which should be the same as your login at a different host.
   
-![Screen 4](../assets/email_guide/screen4.png)
+![Screen 4](/img/email_guide/screen4.png)
 
   5. Make sure you choose “Send through Esamir Mail”
   
 
-![Screen 5](../assets/email_guide/screen5.png)
+![Screen 5](/img/email_guide/screen5.png)
 
   6. Finally… MAKE SURE you choose the make geekbeacon.org as the primary account by clicking the “Make Default” icon.
 

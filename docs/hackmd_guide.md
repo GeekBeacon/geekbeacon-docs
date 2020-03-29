@@ -1,2 +1,0 @@
-## HackMD Guide
-

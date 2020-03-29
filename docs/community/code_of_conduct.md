@@ -1,4 +1,11 @@
+---
+id: code_of_conduct
+title: Code Of Conduct
+sidebar_label: Code Of Conduct
+---
 # Geek Beacon  Code Of Conduct
+
+
 
 
 # Community
@@ -65,6 +72,9 @@ I required a mailing list, a voice chat and text chat on discord and access to t
 The officers will evaluate your request and either reject or reach out with further instruction and access keys.
 
 
-## **Credit:**
+## Credit:
 
 Whenever someone else's work is used it needs to be given credit and as much as possible referenced.  Ie.  Linking to graphic designer website if said person’s artwork was used. 
+
+
+[Source](https://docs.google.com/document/d/1PYbLPukRIBes5G69SNnQ8eUXufgWC48A4d8yK9rGJjA/edit?usp=sharing)
