@@ -1,15 +1,14 @@
 language: node_js
 node_js:
-    - "12.1.0"
+- 13.8.0
 before_script:
-    - yarn install
+- yarn install
 script:
-    - yarn build
-
+- yarn build
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github_token: "$GITHUB_TOKEN"
   repo: GeekBeacon/geekbeacon.github.io
   keep_history: true
   target_branch: master
@@ -17,3 +16,6 @@ deploy:
   local_dir: build
   on:
     branch: master
+env:
+  global:
+  - secure: w+i4oZ3BmP/lz9m1Aa0lCyS9tMnI21V5As4wJUmYfgrc/hJbn4b6AB0UsDzvpud1TJH4fk0mOyDqQXs14NZhOuT4dOhHZLiHM+pro8mkNcUR9yFCRQmXUHqNM+4497uo/ykA0jUa3mP5ZgaVkwTT+NZxWfHiYonCMhSJdrFFsTDLCeCHYPbWUtct0/ilEn4ktyKGF0InY+hbAIq3oCNy0+FOcxpPzGULPcPfv9uPwKYOW7qsEm0BsL1fK60JRENPS/jnqF96Dpoo1XkODYONgKjYFucVH2Kwp60jxA66v+Vu5XyoiHxsqQxg8CwJkofzkMBjtAedVEcBDnRI2B9Jz3UqQFrO51VpRTIC06y7mSvTjzxpP73yWp8r9xlq7eWDE1WFXvN/jUF8S8beP9yFW+GSMJ8y4Ei3GEMdgiBTvSeDBZoXVv5zzrORiazzJU+lGRE2gAhUMgJ9LTDXosLMEVHneFFaddYyVNQLFmFOomhsCKyErDtTcOorxzyC5txTA9HL42c6QrWiP3rfB9T5plZBFRJVVEEfXJNyJo8C0QhzBQkwuah/L+DebbG1ZQl4CS2MI4RcwEHo0pn1J+wI3fls9XqSalTF+aaiGNh4n3bUIZksuyVTnWVPChl9j2nXKUV/0W6qdvmVwjKVUUTx2Et9XoB6DUpHiT1oIHIKg/U=
