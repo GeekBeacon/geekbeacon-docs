@@ -73,3 +73,6 @@ They essentially break down to.
 2. Fork the project.
 3. Make the changes on the master or feature branch of your choice.
 4. Submit a PR to the original repo and wait for approval.
+
+
+[Source](https://docs.google.com/document/d/1QXvsZU3ZOTcghlR7m2BEzRYoO4skVbeZRocjcperWiI/edit#heading=h.97m43cf2bjlg)
