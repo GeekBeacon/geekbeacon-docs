@@ -3,13 +3,10 @@ id: welcome
 title: Welcome
 sidebar_label: Welcome
 ---
-# GeekBeacon Moderator Guide
-
+# Welcome to the Geek Beacon Community!
 
 ![Seperator](/img/shared/separators.png)
 
-
-# Welcome to the Geek Beacon Community!
 
 
 ![Intro](/img/intro/docs-flowchart.png)

@@ -11,7 +11,7 @@ module.exports = {
       title: 'Geek Beacon Documentation',
       logo: {
         alt: 'GB Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       links: [
         {
