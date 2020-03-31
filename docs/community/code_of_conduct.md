@@ -8,7 +8,7 @@ sidebar_label: Code Of Conduct
 
 # Community
 
-Geek Beacon is a community of nerds, geeks, and other enthusiasts of all types, backgrounds and interests.  We strive to be all inclusive and bigotry, hate speech and other reprehensible behavior will not be tolerated.  These are the ground rules that we try to abide by in all Geek Beacon activities irrelevant of the medium used to communicate - digital, in person or otherwise.
+Geek Beacon is a community of nerds, geeks, and other enthusiasts of all types of backgrounds and interests.  We strive to be all-inclusive and bigotry, hate speech and other reprehensible behavior will not be tolerated.  These are the ground rules that we try to abide by in all Geek Beacon activities irrelevant of the medium used to communicate - digital, in person or otherwise.
 
 
 ## **Be Respectful**
@@ -72,6 +72,6 @@ The officers will evaluate your request and either reject or reach out with furt
 
 ## **Credit:**
 
-Whenever someone else's work is used it needs to be given credit and as much as possible referenced.  Ie.  Linking to the graphic designer’s website if said person’s artwork was used. 
+Whenever someone else's work is used it needs to be given credit and referenced as much as possible.  Ie.  Linking to the graphic designer’s website if said person’s artwork was used. 
 
 
