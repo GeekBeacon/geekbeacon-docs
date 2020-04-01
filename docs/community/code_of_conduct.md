@@ -3,38 +3,36 @@ id: code_of_conduct
 title: Code Of Conduct
 sidebar_label: Code Of Conduct
 ---
-# Geek Beacon  Code Of Conduct
-
-
+# Geek Beacon Code Of Conduct
 
 
 # Community
 
-Geek Beacon is a community of nerds, geeks, and other enthusiasts of all types of background and interests.  We strive to be all inclusive and bigotry, hate speech and other reprehensible behavior will not be tolerated.  These are the ground rules that we try abide by in all Geek Beacon activities irrelevant of the medium used to communicate - digital, in person or otherwise.
+Geek Beacon is a community of nerds, geeks, and other enthusiasts of all types of backgrounds and interests.  We strive to be all-inclusive and bigotry, hate speech and other reprehensible behavior will not be tolerated.  These are the ground rules that we try to abide by in all Geek Beacon activities irrelevant of the medium used to communicate - digital, in person or otherwise.
 
 
 ## **Be Respectful**
 
-You may disagree with someone’s opinion but respect everyone’s uniqueness and differences.  Nobody will force you to have a particular point of view nor should you force your view upon others.  
+You may disagree with someone’s opinion, but respect everyone’s uniqueness and differences.  Nobody will force you to have a particular point of view nor should you force your view upon others.  
 
 
 ## **Be Considerate**
 
-The work and contribution and even social interactions within the community affects others.  Be considerate of how your actions affect others.  Be mindful of your teammates and how your actions affect others.
+Be mindful of how your words or actions may affect those around you. Always strive to conduct yourself in a courteous, considerate and professional manner.
 
 
 ## **Take Responsibility for your words and actions**
 
-We all make mistakes.  When we do, take responsibility for the words that were said and work with the injured party to make things right.   Once again we are a welcoming community of people of all sorts of background and cultures.  What might be taken as a simple jest to your immediate friends might be taken the wrong way by others.  
+We all make mistakes.  When we do, take responsibility for the words that were said and work with the injured party to make things right.   Once again, we are a welcoming community of people of all sorts of backgrounds and cultures.  What might be construed as a simple jest to your friends might be highly offensive to others.  
 
 
 
 
 ## **Be Collaborative**
 
-The root of our community is heavily inspired by the OSS movement, for example this document is heavily inspired by the [Ubuntu Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct).  Given our roots, we shared many of the same ideals. 
+The root of our community is heavily inspired by the OSS movement. For example, this document is heavily inspired by the [Ubuntu Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct).  Given our roots, we shared many of the same ideals. 
 
-To this end, we strive for a purpose greater than ourselves. What we produce-  software, code, community, sense of belonging among peers is a complex whole made of many parts, it is the byproduct many dreams. Collaboration between teams that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole. 
+To this end, we strive for a purpose greater than ourselves. What we produce-  software, code, community, sense of belonging among peers is a complex whole made of many parts, it is the byproduct of many dreams. Collaboration between teams that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole. 
 
 
 ## **Value decisiveness, clarity and consensus**
@@ -72,9 +70,8 @@ I required a mailing list, a voice chat and text chat on discord and access to t
 The officers will evaluate your request and either reject or reach out with further instruction and access keys.
 
 
-## Credit:
+## **Credit:**
 
-Whenever someone else's work is used it needs to be given credit and as much as possible referenced.  Ie.  Linking to graphic designer website if said person’s artwork was used. 
+Whenever someone else's work is used it needs to be given credit and referenced as much as possible.  Ie.  Linking to the graphic designer’s website if said person’s artwork was used. 
 
 
-[Source](https://docs.google.com/document/d/1PYbLPukRIBes5G69SNnQ8eUXufgWC48A4d8yK9rGJjA/edit?usp=sharing)
