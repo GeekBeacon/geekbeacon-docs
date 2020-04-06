@@ -74,4 +74,4 @@ The officers will evaluate your request and either reject or reach out with furt
 
 Whenever someone else's work is used it needs to be given credit and referenced as much as possible.  Ie.  Linking to the graphic designer’s website if said person’s artwork was used. 
 
-
+[Source](https://docs.google.com/document/d/1PYbLPukRIBes5G69SNnQ8eUXufgWC48A4d8yK9rGJjA/edit)
