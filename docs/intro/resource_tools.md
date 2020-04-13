@@ -27,12 +27,12 @@ sidebar_label: Resource Tools
 1. Obtain time availability / scheduling from all participating members.
 
 Here are a few tools that can be useful:
-   - [Doolde](https://doodle.com/en/)
+   - [Doodle](https://doodle.com/en/)
    - [ZVite](https://zvite.co/)
    - [MeetingBird](https://meetingbird.com/)
 2. Video Conferencing:
     - [Jitsi](https://jitsi.org/) Open Source
     - [Google Meet](https://meet.google.com/_meet)
 3. Audio Conference
-   - Discord is the recommended tools.
+   - Discord is the recommended tool.
 
