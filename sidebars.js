@@ -8,9 +8,6 @@ module.exports = {
     ],
     Collaborators: [
       'collaborators/email_setup_guide'
-    ],
-    DemoExamples: [
-      'demo'
     ]
   },
 };

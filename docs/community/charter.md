@@ -119,3 +119,4 @@ We expect leaders to be aware when they are conflicted due to employment or othe
 When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.
 
 
+[Source](https://docs.google.com/document/d/1sQuZykMYVSrWf_GBonoJgXkgFD7_gn_MVXJYaRhRSBU/edit)
