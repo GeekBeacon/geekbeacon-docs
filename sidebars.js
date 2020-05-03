@@ -7,6 +7,7 @@ module.exports = {
       'community/code_of_conduct'
     ],
     Divisions: [
+      'divisions/roles',
       'divisions/engineering'
     ],
     Collaborators: [
