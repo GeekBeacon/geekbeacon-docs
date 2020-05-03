@@ -56,8 +56,8 @@ Example:  Discord can have its own hierarchy and system of decision making at th
 The Governmental structure is set up into 3 tiers with build in checks and balances for the various groups.    
 
 1. **Executive Branch** -- Is held by the Founder and has Veto rights over any decision if the individual who holds the office sees the motion as being against the values of GB.  Or will be a deterrent to the organization at large.  The decision to veto or not is at the person’s discretion.
-2. **House of Nerds** -- Is composed of the Division Leaders.  Any motion needs to be ratified by the House of Nerds in order to pass and approved by the Executive Branch.  If a stalemate occurs, the Executive Branch can be invoked as a deciding vote.  
-3. **House of Commons** -- Is composed of Track leaders and other (if any exist or are added) voting members.  For motion in specific domains local moderators may cast a vote on the motion.  A motion can only be voted on by the House of Nerds if it passes the House of Commons.
+2. **Senators** -- Is composed of the Division Leaders.  Any motion needs to be ratified by the Senators in order to pass and approved by the Executive Branch.  If a stalemate occurs, the Executive Branch can be invoked as a deciding vote.  
+3. **House of Commons** -- Is composed of Track leaders and other (if any exist or are added) voting members.  For motion in specific domains local moderators may cast a vote on the motion.  A motion can only be voted on by the Senators if it passes the House of Commons.
 
 **Vote of No Confidence:**
 
@@ -65,13 +65,13 @@ A vote of no confidence can be called for any position.  If the vote passes and 
 
 **Executive Branch Vote Of No Confidence:**
 
-If the Executive branch is seen as no longer representing the values of the community at large a vote of no confidence can be called to the floor.  It needs to be ratified by a majority in the House of Commons and a ⅔ majority of the House of Nerds.  
+If the Executive branch is seen as no longer representing the values of the community at large a vote of no confidence can be called to the floor.  It needs to be ratified by a majority in the House of Commons and a ⅔ majority of the Senators.  
 
 Limitations:
 
 
 
-*   The number of positions for the House of Nerds is frozen as it stands.  The number cannot grow or decrease without an amendment to the Charter.   
+*   The number of positions for the Senators is frozen as it stands.  The number cannot grow or decrease without an amendment to the Charter.
 *   Any person can be removed from said position but the position needs to be filled in within 30 days of removal and the person needs to be approved by the body of governance. 
 *   An amendment to the charter requires a ⅔ majority vote in both houses and approval by the Executive branch. 
 
