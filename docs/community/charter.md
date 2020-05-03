@@ -15,37 +15,27 @@ Since its inception, Geek Beacon has been structured as outlined below. This str
 
 *Founders* - hold the highest officer position. This role represents both an honorific and an executive position. Individuals who go above and beyond the call of duty in service of Geek Beacon are appointed to this position. Founders are permanent members of the Executive Panel, with full voting privileges. If a founder is believed to no longer be acting in the best interest of Geek Beacon, they can be removed by a vote of non-confidence.
 
-*Senior Officers* - hold the second-highest officer position and report directly to the Founders. Senior Officers oversee the various tracks of development, business growth, content development. Additionally, they also coordinate with Track Leaders regarding the work to be done.
+*Division Leaders* - hold the second-highest officer position and report directly to the Founders. Senior Officers oversee the various tracks of development, business growth, content development. Additionally, they also coordinate with Track Leaders regarding the work to be done.
 
 *Track Leaders* - hold the third-highest officer position and are granted voting privileges. These individuals are responsible for the development of particular tracks. Tracks, in turn, are areas of research or development involving business, engineering and other facets of Geek Beacon. Members are elevated to the position of Track Leaders in order to aid them in various undertakings in support of Geek Beacon.  
-
-Example positions:  Engineering leader, Content Creator track leader.  Track Leaders most likely map out to specific departments defined in the Department Proposal document. _
 
 
 ![Seperator](/img/shared/separators.png)
 
 **NonVoting Leadership Positions**
 
-*Project Leader* - Every Development (Engineering, Business, Marketing, Graphic Designs or otherwise) has a leader which is responsible for the coordinations of volunteers and making sure the required assets are being delivered.  Naturally we are all volunteers and none of us are expected to drop everything in favor of the work we volunteered for but communication and redundancy is crucial.  Anything with a timeline should always be shared among the group so others can pick up the slack if need be.  As such every project has a lead and co-leader.
+*GIG Leader* - Every Development (Engineering, Business, Marketing, Graphic Designs or otherwise) has a leader which is responsible for the coordinations of volunteers and making sure the required assets are being delivered.  Naturally we are all volunteers and none of us are expected to drop everything in favor of the work we volunteered for but communication and redundancy is crucial.  Anything with a timeline should always be shared among the group so others can pick up the slack if need be.  As such every project has a lead and co-leader.
 
-*Project Co-Leader* - Is a fellow individual who leads a particular project.  Is a second in command after the Project Lead and can be consulted for direction when the Project Lead is missing.  If dispute occurs between the project leaders, the track leader is responsible for resolving such conflicts.
-
-*Moderators* _Are non-voting members of GB at large and are responsible for the moderation and policing of various aspects of the GB community.  That might have a voting status within the niche that they are responsible for.   But the direction of GB at large is not impacted by the voting cast by standard Moderators.  Moderators can be nominated ad-hoc by the community leader, but the information needs to be communicated to the track leader and any nomination can be vetoed by Founder, MC or the Track Leader.
-
+*GIG Co-Leader* - Is a fellow individual who leads a particular project.  Is a second in command after the GIG Lead and can be consulted for direction when the Project Lead is missing.  If dispute occurs between the project leaders, the track leader is responsible for resolving such conflicts.
 
 ### 1.1 Visual Representation of Hierarchy:
 
-![Seperator](/img/community/charter_hierarchy.svg)
-
-
-   Example of communication with leaders, officers and mods: 
-
-   Weekly 1:1 with Leader + Officer, Monthly/Quarterly All Hands,
+![Seperator](/img/community/charter_hierarchy.png)
 
 
 ### 1.2 Sub Entity Governance Bodies:
 
-Although Project Leader, Moderators and such do not have a voting right in the Geek Beacon track.  The vision that is passed on from the track lead can be executed at the discretion of the Project Leaders and volunteers on the project.  How decisions are made within the particular project is up to the project lead/co-leader.
+Although GIG Leader and GIG Co-Leaders do not have a voting right in the Geek Beacon track.  The vision that is passed on from the track lead can be executed at the discretion of the Project Leaders and volunteers on the project.  How decisions are made within the particular project is up to the project lead/co-leader.
 
 It is within the realm of possibilities to have a voting hierarchy within a large enough project to decide on implementation details or direction of said project.  As such Geek Beacon non-voting parties can have a say on how the particular track they are involved in further develops and grows.   
 
@@ -86,7 +76,7 @@ If an officer of the House of Commons is out of contact and is unreachable for m
 
 ## 4. Effective Communication
 
-Be aware that this community is growing rapidly and our leadership will be slowly developing.  We are over 4000 members as it stands and we may not be as responsive as you’d like.  It is important that you contact the appropriate person whenever possible. Certain people at the top are flooded with communication and if we skip the correct protocols are highly unlikely to be able to respond to 3000 messages waiting for them every morning.  In the unlikely event that you need a response and the immediate officer is not available then escalating up the chain is encouraged as long as proper steps have been taken to attempt to get into the contact with the party responsible for overseeing the project in question.
+Be aware that this community is growing rapidly and our leadership will be slowly developing.  We are over 5000 members as it stands and we may not be as responsive as you’d like.  It is important that you contact the appropriate person whenever possible. Certain people at the top are flooded with communication and if we skip the correct protocols are highly unlikely to be able to respond to 3000 messages waiting for them every morning.  In the unlikely event that you need a response and the immediate officer is not available then escalating up the chain is encouraged as long as proper steps have been taken to attempt to get into the contact with the party responsible for overseeing the project in question.
 
 
 ## 5. Organizational Structure
@@ -99,7 +89,7 @@ Full list is coming soon, but examples are: Engineering, Creative, Business Deve
 
 Each division can have a variety of different sub-projects under its purvue.  We'll refer to those projects as GIGs (Geek Interest Groups) sometimes also referred to as User Groups.  
 
-### Geek Interest Groups
+### Geek Interest Groups (GIGs)
 
 Each GIG has a leader and co-lead that can overseas multiple the activity in the group.  A GIG can be responsible for running a game night, working on collaborating and learning a programming class, etc.  It really is open to the community what they would like the GIGs to be.  The sky is the limit as long as it doesn't break any of the established [code of conduct](docs/community/code_of_conduct). 
 
