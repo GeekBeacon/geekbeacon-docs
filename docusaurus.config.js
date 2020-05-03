@@ -22,7 +22,7 @@ module.exports = {
         },
         {
           to: 'blog', 
-          label: 'MeetingNotes', 
+          label: 'Blog', 
           position: 'left'
         },
         {
