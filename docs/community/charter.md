@@ -15,9 +15,9 @@ Since its inception, Geek Beacon has been structured as outlined below. This str
 
 *Founders* - hold the highest officer position. This role represents both an honorific and an executive position. Individuals who go above and beyond the call of duty in service of Geek Beacon are appointed to this position. Founders are permanent members of the Executive Panel, with full voting privileges. If a founder is believed to no longer be acting in the best interest of Geek Beacon, they can be removed by a vote of non-confidence.
 
-*Division Leaders* - hold the second-highest officer position and report directly to the Founders. Senior Officers oversee the various tracks of development, business growth, content development. Additionally, they also coordinate with Track Leaders regarding the work to be done.
+*Division Leaders* - hold the second-highest officer position and report directly to the Founders. Senior Officers oversee the various tracks of development, business growth, content development. Additionally, they also coordinate with Group Leaders regarding the work to be done.
 
-*Track Leaders* - hold the third-highest officer position and are granted voting privileges. These individuals are responsible for the development of particular tracks. Tracks, in turn, are areas of research or development involving business, engineering and other facets of Geek Beacon. Members are elevated to the position of Track Leaders in order to aid them in various undertakings in support of Geek Beacon.  
+*Group Leaders* - hold the third-highest officer position and are granted voting privileges. These individuals are responsible for the development of particular tracks. Tracks, in turn, are areas of research or development involving business, engineering and other facets of Geek Beacon. Members are elevated to the position of Group Leaders in order to aid them in various undertakings in support of Geek Beacon.  
 
 
 ![Seperator](/img/shared/separators.png)
