@@ -26,7 +26,7 @@ Since its inception, Geek Beacon has been structured as outlined below. This str
 
 *GIG Leader* - Every Development (Engineering, Business, Marketing, Graphic Designs or otherwise) has a leader which is responsible for the coordinations of volunteers and making sure the required assets are being delivered.  Naturally we are all volunteers and none of us are expected to drop everything in favor of the work we volunteered for but communication and redundancy is crucial.  Anything with a timeline should always be shared among the group so others can pick up the slack if need be.  As such every project has a lead and co-leader.
 
-*GIG Co-Leader* - Is a fellow individual who leads a particular project.  Is a second in command after the GIG Lead and can be consulted for direction when the Project Lead is missing.  If dispute occurs between the project leaders, the track leader is responsible for resolving such conflicts.
+*GIG Co-Leader* - Is a fellow individual who leads a particular project.  Is a second in command after the GIG Lead and can be consulted for direction when the Project Lead is missing.  If dispute occurs between the project leaders, the group leader is responsible for resolving such conflicts.
 
 ### 1.1 Visual Representation of Hierarchy:
 
@@ -35,11 +35,11 @@ Since its inception, Geek Beacon has been structured as outlined below. This str
 
 ### 1.2 Sub Entity Governance Bodies:
 
-Although GIG Leader and GIG Co-Leaders do not have a voting right in the Geek Beacon track.  The vision that is passed on from the track lead can be executed at the discretion of the Project Leaders and volunteers on the project.  How decisions are made within the particular project is up to the project lead/co-leader.
+Although GIG Leader and GIG Co-Leaders do not have a voting right in the Geek Beacon track.  The vision that is passed on from the group lead can be executed at the discretion of the Project Leaders and volunteers on the project.  How decisions are made within the particular project is up to the project lead/co-leader.
 
 It is within the realm of possibilities to have a voting hierarchy within a large enough project to decide on implementation details or direction of said project.  As such Geek Beacon non-voting parties can have a say on how the particular track they are involved in further develops and grows.   
 
-Example:  Discord can have its own hierarchy and system of decision making at the discretion of the project lead.  they have full autonomy on how to run his project short of the decisions made that conflict with the interact of the track lead or geek beacon at large. 
+Example:  Discord can have its own hierarchy and system of decision making at the discretion of the project lead.  They have full autonomy on how to run his project short of the decisions made that conflict with the decisions of the group lead or geek beacon at large. 
 
 ## 2. Structure of Government
 
@@ -47,7 +47,7 @@ The Governmental structure is set up into 3 tiers with build in checks and balan
 
 1. **Executive Branch** -- Is held by the Founder and has Veto rights over any decision if the individual who holds the office sees the motion as being against the values of GB.  Or will be a deterrent to the organization at large.  The decision to veto or not is at the person’s discretion.
 2. **Senators** -- Is composed of the Division Leaders.  Any motion needs to be ratified by the Senators in order to pass and approved by the Executive Branch.  If a stalemate occurs, the Executive Branch can be invoked as a deciding vote.  
-3. **House of Commons** -- Is composed of Track leaders and other (if any exist or are added) voting members.  For motion in specific domains local moderators may cast a vote on the motion.  A motion can only be voted on by the Senators if it passes the House of Commons.
+3. **House of Commons** -- Is composed of Group Leads and other (if any exist or are added) voting members.  For motion in specific domains local moderators may cast a vote on the motion.  A motion can only be voted on by the Senators if it passes the House of Commons.
 
 **Vote of No Confidence:**
 
@@ -58,8 +58,6 @@ A vote of no confidence can be called for any position.  If the vote passes and 
 If the Executive branch is seen as no longer representing the values of the community at large a vote of no confidence can be called to the floor.  It needs to be ratified by a majority in the House of Commons and a ⅔ majority of the Senators.  
 
 Limitations:
-
-
 
 *   The number of positions for the Senators is frozen as it stands.  The number cannot grow or decrease without an amendment to the Charter.
 *   Any person can be removed from said position but the position needs to be filled in within 30 days of removal and the person needs to be approved by the body of governance. 
@@ -100,7 +98,7 @@ Geek Beacon will try to provide the resources necessary to facilitate the coordi
 
 A core tenant of GB, is that every project needs to have more than one person available to perform any given task.  No resource associated with GB should have less than 2 people able that can manage it.  We are a volunteer project group and organization as such we expect people's availability to shift over time.  That is one of the many reasons why we require backups from both a technical and leadership side. When people get busy and life gets in the way it shouldn't be something that impedes GB from operating normally.
 
-At times a Track Leader may be appointed that overseas multiple GIGs to help ease the burden on the division leader.  A track leader is responsible to coordinate with 2 or more GIGs and make sure that they have everything they need. 
+At times a Group Leader may be appointed that overseas multiple GIGs to help ease the burden on the division leader.  A group leader is responsible to coordinate with 2 or more GIGs and make sure that they have everything they need. 
 
 Any community individual can create a new GIG (Geek Interest Group) as long as there is a group of at least 2 or 3 individuals interested in the project and it has potential beyond a personal project.  Please reach out the division lead if you are interested in starting a new GIG.
 
