@@ -11,8 +11,7 @@ More coming soon.
 
 ## Project Management
 
-We use Taiga for all our Project Management.  Please find a list of all our current boards below.
+We use Jira for all our Project Management.  Please find a list of all our current boards below.
 
-  - [Engineering](https://tree.taiga.io/project/safaci2000-geek-beacon-engineering/timeline)
-  - [Development](https://tree.taiga.io/project/geek-beacon-gb-development/timeline)
-  - [WebSite](https://tree.taiga.io/project/geek-beacon-osaltgeek-beacon-site/timeline)
+  - [Engineering](https://geekbeacon.atlassian.net/jira/software/projects/EN/boards/4)
+  - [WebSite](https://geekbeacon.atlassian.net/jira/software/projects/WEB/boards/14)
