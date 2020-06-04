@@ -32,6 +32,12 @@ module.exports = {
         },
       ],
     },
+    algolia: {
+      apiKey: '266aced93096c0cb9effe165264556f4',
+      indexName: 'geekbeacon',
+      //appId: '', // Optional, if you run the DocSearch crawler on your own
+      //algoliaOptions: {}, // Optional, if provided by Algolia
+    },
     footer: {
       style: 'dark',
       links: [
