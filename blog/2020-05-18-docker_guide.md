@@ -13,7 +13,7 @@ tags: [engineering, docker]
 
 ## Preamble
 
-Docker is quite popular and has a lot of 	benefits if used appropriately.
+Docker is quite popular and has a lot of benefits if used appropriately.
 This tutorial will hopefully help readers become more familiar with it.
 You snooze, you lose so let's get into it.
 
