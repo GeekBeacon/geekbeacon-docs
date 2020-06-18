@@ -27,7 +27,9 @@ You snooze, you lose so let's get into it.
 - OPTIONAL:
 	- Dockerhub account to push images to
 
+<!--truncate-->
 ## Concepts and Architecture
+
 
 ### Images and Containers
 
