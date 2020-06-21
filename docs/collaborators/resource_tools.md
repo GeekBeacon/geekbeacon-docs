@@ -21,14 +21,15 @@ sidebar_label: Resource Tools
 
 ## Collaboration:
   * Project Management:
-     We use Taiga or Trello for all our Project Management. Please find the appropriate board to use in the division section.
+     We use Jira or Trello for all our Project Management. Please find the appropriate board to use in the division section.
      - [GB Bounty Board](https://trello.com/invite/b/TSFKEF1M/65d03562cede22272585eb2ab9f075e9/geekbeacon-bounty-board)
+     - [Jira](https://geekbeacon.atlassian.net/) 
 
 ## Source Code
 
   * Github:
      - [OSAlt](https://github.com/orgs/OSAlt/)
-     - [OSAltDev](https://github.com/orgs/OSAltDev/) Alpha/Beta version of our code.  Exploratory code
+     - [OSAltDev](https://github.com/orgs/OSAltDev/) This org usually contains the Alpha/Beta version of our code.  It may contain exploratory code or simply old archives we want to keep around.
      - [GeekBeacon](https://github.com/orgs/GeekBeacon/)
 
 
@@ -41,9 +42,19 @@ Here are a few tools that can be useful:
  - [Doodle](https://doodle.com/en/)
  - [ZVite](https://zvite.co/)
  - [MeetingBird](https://meetingbird.com/)
+ - [Time Converter](https://www.thetimezoneconverter.com/) Creates a link to convert meeting time to local time
 
 2. Video Conferencing:
 
  - [Jitsi](https://jitsi.org/) Open Source
  - [Google Meet](https://meet.google.com/_meet)
+ - [Big Blue Button](https://meet.nixnet.services/)
  - [Discord](https://discordapp.com/) is the recommended tool.
+
+3. Create a document with the the:
+ - Meeting Goals - What is the purpose of this meeting
+ - Meeting Agenda - What are the talking points for this meeting
+ - Action Items - What should we ensure happens from the conversation of this meeting.
+
+ Note. If you have a geekbeacon email address there are existing google docs template to use.
+

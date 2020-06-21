@@ -23,7 +23,19 @@ module.exports = {
         {
           to: 'blog', 
           label: 'Blog', 
-          position: 'left'
+          position: 'left',
+          postsPerPage: 3,
+          blogSidebarCount: 'ALL',
+          feedOptions: {
+            type: 'all'
+          }
+
+        },
+        {
+          href: '/blog/tags/engineering',
+          label: 'Tech Blog',
+          position: 'left',
+          target: '_self'
         },
         {
           href: 'https://github.com/GeekBeacon/geekbeacon-docs',
