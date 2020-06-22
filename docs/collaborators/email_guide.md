@@ -38,3 +38,9 @@ How to setup your geek beacon account.
 
   6. Finally… MAKE SURE you choose the make geekbeacon.org as the primary account by clicking the “Make Default” icon.
 
+
+Actually this is all Bull shit.
+
+
+I'd like to add more data.. blah balh 
+
