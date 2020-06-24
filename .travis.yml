@@ -10,7 +10,7 @@ deploy:
   github_token: "$GITHUB_TOKEN"
   repo: GeekBeacon/geekbeacon.github.io
   keep_history: true
-  target_branch: main
+  target_branch: master
   verbose: true
   local_dir: build
   on:
