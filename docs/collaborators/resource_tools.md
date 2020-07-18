@@ -42,7 +42,6 @@ Here are a few tools that can be useful:
  - [Doodle](https://doodle.com/en/)
  - [ZVite](https://zvite.co/)
  - [MeetingBird](https://meetingbird.com/)
- - [Time Converter](https://www.thetimezoneconverter.com/) Creates a link to convert meeting time to local time
 
 2. Video Conferencing:
 
@@ -51,10 +50,16 @@ Here are a few tools that can be useful:
  - [Big Blue Button](https://meet.nixnet.services/)
  - [Discord](https://discordapp.com/) is the recommended tool.
 
+
 3. Create a document with the the:
  - Meeting Goals - What is the purpose of this meeting
  - Meeting Agenda - What are the talking points for this meeting
  - Action Items - What should we ensure happens from the conversation of this meeting.
 
  Note. If you have a geekbeacon email address there are existing google docs template to use.
+
+4. Timezone Helpers
+
+ - [Every Timezone](https://everytimezone.com/) Useful for determining the time in local time
+ - [Time Zone Converter](https://www.thetimezoneconverter.com/) Same as above, different tool.
 
