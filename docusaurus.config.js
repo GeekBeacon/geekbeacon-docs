@@ -13,7 +13,7 @@ module.exports = {
         alt: "GB Logo",
         src: "img/logo.png",
       },
-      links: [
+      items: [
         {
           to: "docs/intro/welcome",
           activeBasePath: "docs",
