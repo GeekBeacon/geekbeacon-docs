@@ -54,7 +54,8 @@ tags: [meeting_notes]
 The tags are comma delimited and the other metadata entries allow for the author to be defined. 
 
 
-Please have a look at the [Tools](/docs/intro/tools) for a full list of resources you may use. The availability may vary depending on the access you have been granted.
+Please have a look at the [Tools](/docs/collaborators/tools) for a full list of resources you may use. The availability may vary depending on the access you have been granted.
+
 
 ## **Contributing**
 
