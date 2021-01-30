@@ -2,8 +2,23 @@ kind: pipeline
 name: default
 
 steps:
-- name: test
-  image: node:14.15
+- name: build
+  image: node:lts-alpine3.12
   commands:
-  - yarn install
-  - yarn build
+    - "yarn install"
+    - "yarn build"
+- name: publish
+  image: plugins/gh-pages
+  settings:
+    pages_directory: blog
+    upstream_name: https://github.com/GeekBeacon/GeekBeacon.github.io.git
+    target_branch: master
+    force_push: true
+    delete: true
+    username:
+      from_secret: gh_username
+    password:
+      from_secret: gh_password
+    when:
+      branch:
+        - main
