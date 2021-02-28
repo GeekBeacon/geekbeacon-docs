@@ -11,7 +11,8 @@ steps:
   image: plugins/gh-pages
   settings:
     pages_directory: blog
-    upstream_name: https://github.com/GeekBeacon/GeekBeacon.github.io.git
+    remote_url:  https://github.com/GeekBeacon/GeekBeacon.github.io.git
+    upstream-name: origin 
     target_branch: master
     force_push: true
     delete: true
