@@ -1,6 +1,9 @@
 module.exports = {
   someSidebar: {
     Intro: ['intro/welcome'],
+    Events: [
+      'events/event_guide'
+    ],
     Community: [
       'community/announcements',
       'community/charter',
