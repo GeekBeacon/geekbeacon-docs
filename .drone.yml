@@ -1,5 +1,5 @@
 kind: pipeline
-name: default
+name: testing
 
 steps:
 - name: build
@@ -7,6 +7,15 @@ steps:
   commands:
     - "yarn install"
     - "yarn build"
+  when:
+    event: [push, pull_request]
+    branch: main
+
+---
+kind: pipeline
+name: publish 
+
+steps:
 - name: publish
   image: plugins/gh-pages
   settings:
@@ -21,5 +30,8 @@ steps:
     password:
       from_secret: gh_password
     when:
-      branch:
-        - main
+      event: push
+      branch: main
+
+depends_on:
+  - testing
