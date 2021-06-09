@@ -13,7 +13,7 @@ module.exports = {
         alt: 'GB Logo',
         src: 'img/logo.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/intro/welcome',
           activeBasePath: 'docs',
@@ -21,8 +21,8 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'blog', 
-          label: 'Blog', 
+          to: 'blog',
+          label: 'Blog',
           position: 'left',
           postsPerPage: 3,
           blogSidebarCount: 'ALL',

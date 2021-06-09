@@ -1,5 +1,5 @@
 ---
-id: docker_guide
+slug: docker_guide
 title: Docker Guide Part 1
 author: lhz
 author_title: Docker Guide Part 1

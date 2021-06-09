@@ -13,7 +13,8 @@ module.exports = {
     Collaborators: [
       'collaborators/intro',
       'collaborators/tools',
-      'collaborators/email_setup_guide'
+      'collaborators/email_setup_guide',
+      'collaborators/contributor_guide'
     ]
   },
 };
