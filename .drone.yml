@@ -1,0 +1,26 @@
+kind: pipeline
+type: docker
+name: default 
+
+steps:
+  - name: GB Deploy Docs
+    image: node
+    commands:
+      - mkdir -p $HOME/.ssh
+      - ssh-keyscan -t rsa github.com >> $HOME/.ssh/known_hosts
+      - echo "$GITHUB_PRIVATE_KEY" > "$HOME/.ssh/id_rsa"
+      - chmod 0600 $HOME/.ssh/id_rsa
+      - yarn install
+      - yarn deploy
+    environment:
+      DEPLOYMENT_BRANCH: master
+      USE_SSH: true
+      GIT_USER:
+        from_secret: gh_username
+      GITHUB_PRIVATE_KEY:
+        from_secret: git_deploy_private_key
+
+trigger:
+  event:
+    - push
+    - pull_request

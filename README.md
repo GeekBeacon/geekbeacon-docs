@@ -1,3 +1,6 @@
+[![Build Status](https://cloud.drone.io/api/badges/GeekBeacon/geekbeacon-docs/status.svg)](https://cloud.drone.io/GeekBeacon/geekbeacon-docs)
+
+
 # Geek Beacon
 Geek Beacon Designs/ Documentation
 
