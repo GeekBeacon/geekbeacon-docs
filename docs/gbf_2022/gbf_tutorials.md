@@ -20,5 +20,5 @@ sidebar_label: Tutorials
 ## 5. How to join the GeekBeacon Minecraft Server
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_IfHM8iJAHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 6. How to join the GeekBeacon Minecraft
+## 6. How to enter a giveaway on Discord
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqA-zBwRsus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
