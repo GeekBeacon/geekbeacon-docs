@@ -45,10 +45,11 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: '266aced93096c0cb9effe165264556f4',
+      apiKey: '482fae14eba68f1c2f52aa5729904ff7',
       indexName: 'geekbeacon',
-      //appId: '', // Optional, if you run the DocSearch crawler on your own
-      //algoliaOptions: {}, // Optional, if provided by Algolia
+      appId: 'LV2H11NOFN', // Optional, if you run the DocSearch crawler on your own
+      contextualSearch: true,
+      //searchParameters: {}, // Optional, if provided by Algolia
     },
     footer: {
       style: 'dark',
