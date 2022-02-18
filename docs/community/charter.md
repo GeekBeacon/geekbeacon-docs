@@ -5,19 +5,19 @@ sidebar_label: Charter
 ---
 ![Seperator](/img/shared/separators.png)
 
-# Geek Beacon -- Charter
+# GeekBeacon -- Charter
 
 ## 1 Executive Committee
 
-Since its inception, Geek Beacon has been structured as outlined below. This structure is subject to change, provided that the correct amendments have been passed.
+Since its inception, GeekBeacon has been structured as outlined below. This structure is subject to change, provided that the correct amendments have been passed.
 
 **Positions**
 
-*Founders* - hold the highest officer position. This role represents both an honorific and an executive position. Individuals who go above and beyond the call of duty in service of Geek Beacon are appointed to this position. Founders are permanent members of the Executive Panel, with full voting privileges. If a founder is believed to no longer be acting in the best interest of Geek Beacon, they can be removed by a vote of non-confidence.
+*Founders* - hold the highest officer position. This role represents both an honorific and an executive position. Individuals who go above and beyond the call of duty in service of GeekBeacon are appointed to this position. Founders are permanent members of the Executive Panel, with full voting privileges. If a founder is believed to no longer be acting in the best interest of GeekBeacon, they can be removed by a vote of non-confidence.
 
 *Division Leaders* - hold the second-highest officer position and report directly to the Founders. Division Leaders oversee the various tracks of development, business growth, content development. Additionally, they also coordinate with Group Leaders regarding the work to be done.
 
-*Group Leaders* - hold the third-highest officer position and are granted voting privileges. These individuals are responsible for the development of particular tracks. Tracks, in turn, are areas of research or development involving business, engineering and other facets of Geek Beacon. Members are elevated to the position of Group Leaders in order to aid them in various undertakings in support of Geek Beacon.  
+*Group Leaders* - hold the third-highest officer position and are granted voting privileges. These individuals are responsible for the development of particular tracks. Tracks, in turn, are areas of research or development involving business, engineering and other facets of GeekBeacon. Members are elevated to the position of Group Leaders in order to aid them in various undertakings in support of GeekBeacon.  
 
 
 ![Seperator](/img/shared/separators.png)
@@ -35,11 +35,11 @@ Since its inception, Geek Beacon has been structured as outlined below. This str
 
 ### 1.2 Sub Entity Governance Bodies:
 
-Although GIG Leader and GIG Co-Leaders do not have a voting right in the Geek Beacon track.  The vision that is passed on from the group lead can be executed at the discretion of the Project Leaders and volunteers on the project.  How decisions are made within the particular project is up to the project lead/co-leader.
+Although GIG Leader and GIG Co-Leaders do not have a voting right in the GeekBeacon track.  The vision that is passed on from the group lead can be executed at the discretion of the Project Leaders and volunteers on the project.  How decisions are made within the particular project is up to the project lead/co-leader.
 
-It is within the realm of possibilities to have a voting hierarchy within a large enough project to decide on implementation details or direction of said project.  As such Geek Beacon non-voting parties can have a say on how the particular track they are involved in further develops and grows.   
+It is within the realm of possibilities to have a voting hierarchy within a large enough project to decide on implementation details or direction of said project.  As such GeekBeacon non-voting parties can have a say on how the particular track they are involved in further develops and grows.   
 
-Example:  Discord can have its own hierarchy and system of decision making at the discretion of the project lead.  They have full autonomy on how to run his project short of the decisions made that conflict with the decisions of the group lead or geek beacon at large. 
+Example:  Discord can have its own hierarchy and system of decision making at the discretion of the project lead.  They have full autonomy on how to run his project short of the decisions made that conflict with the decisions of the group lead or GeekBeacon at large. 
 
 ## 2. Structure of Government
 
@@ -81,7 +81,7 @@ Be aware that this community is growing rapidly and our leadership will be slowl
 
 ### Divisions 
 
-Organizational Units are divisions of Geek Beacon.  Everything that Geek Beacon does can be tied to a top level division. 
+Organizational Units are divisions of GeekBeacon.  Everything that GeekBeacon does can be tied to a top level division. 
 
 Full list is coming soon, but examples are: Engineering, Creative, Business Development etc.
 
@@ -94,7 +94,7 @@ Each GIG has a leader and co-lead that can overseas multiple the activity in the
 The leaders of the GIGs can reach out to the division lead if they need [resources](/docs/collaborators/tools), are running into issues, need mediation or simply need help.
 Every project will have a select set of leaders though ultimately the division leaders are responsible for all the GIGs they oversee.  
 
-Geek Beacon will try to provide the resources necessary to facilitate the coordination, development, communication necessary to allow the GIG in to operate within the limits of both budgetary and human resources available.
+GeekBeacon will try to provide the resources necessary to facilitate the coordination, development, communication necessary to allow the GIG in to operate within the limits of both budgetary and human resources available.
 
 A core tenant of GB, is that every project needs to have more than one person available to perform any given task.  No resource associated with GB should have less than 2 people able that can manage it.  We are a volunteer project group and organization as such we expect people's availability to shift over time.  That is one of the many reasons why we require backups from both a technical and leadership side. When people get busy and life gets in the way it shouldn't be something that impedes GB from operating normally.
 
@@ -103,13 +103,13 @@ At times a Group Leader may be appointed that overseas multiple GIGs to help eas
 Any community individual can create a new GIG (Geek Interest Group) as long as there is a group of at least 2 or 3 individuals interested in the project and it has potential beyond a personal project.  Please reach out the division lead if you are interested in starting a new GIG.
 
 
-Generally GIG projects should follow the overall tenets and values established by Geek Beacon and further cement the core of what we are and what we believe in.
+Generally GIG projects should follow the overall tenets and values established by GeekBeacon and further cement the core of what we are and what we believe in.
 
 Mission Statement:
 
 **To create a hub for different types of geeks to share, collaborate and explore their passions in life.**
 
-Keep in mind, at the end of the day Geek Beacon is a community that should help you have fun with people of similar interests and values.  If you're not having fun, then something is wrong and we need to fix that!
+Keep in mind, at the end of the day GeekBeacon is a community that should help you have fun with people of similar interests and values.  If you're not having fun, then something is wrong and we need to fix that!
 
 Very rarely should anything require an escalation up the hierarchy but personal argument, grievances and points of contention can be arbitrated by the supervising body.  
 

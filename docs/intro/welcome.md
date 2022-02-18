@@ -3,7 +3,7 @@ id: welcome
 title: Welcome
 sidebar_label: Welcome
 ---
-# Welcome to the Geek Beacon Community!
+# Welcome to the GeekBeacon Community!
 
 ![Seperator](/img/shared/separators.png)
 

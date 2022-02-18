@@ -7,7 +7,7 @@ sidebar_label: Email Setup Guide
 
 ![Seperator](/img/shared/separators.png)
 
-How to setup your geek beacon account.
+How to setup your GeekBeacon account.
 
   1. Logging in
 
@@ -17,7 +17,7 @@ How to setup your geek beacon account.
 
 ![Screen 1](/img/email_guide/screen1.png)
 
-  2. Add the Geek Beacon Alias
+  2. Add the GeekBeacon Alias
   
     * GoTo Settings/Accounts
 
