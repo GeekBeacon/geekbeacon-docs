@@ -16,3 +16,6 @@ sidebar_label: Tutorials
 
 ## 4. How to donate to GeeksAbroad
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jn4b-AcSfgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5. How to join the GeekBeacon Minecraft Server
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_IfHM8iJAHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
