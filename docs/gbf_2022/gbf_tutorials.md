@@ -9,7 +9,7 @@ sidebar_label: Tutorials
 ## 2. How to use the store
 [Video] (https://youtu.be/sBRuOIjK8cE)
 
-## 3. How to contribue to Open Collective
+## 3. How to contribtue to Open Collective
 [Video] (https://youtu.be/Jgqfxud4fCg)
 
 ## 4. How to donate to GeeksAbroad
