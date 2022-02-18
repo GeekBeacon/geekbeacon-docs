@@ -15,6 +15,9 @@ module.exports = {
       'collaborators/tools',
       'collaborators/email_setup_guide',
       'collaborators/contributor_guide'
+    ],
+    GBF: [
+      'gbf_2022/gbf_tutorial'
     ]
   },
 };

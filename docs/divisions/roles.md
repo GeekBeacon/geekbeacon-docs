@@ -6,12 +6,12 @@ sidebar_label: Roles
 ![Seperator](/img/shared/separators.png)
 
 
-# Geek Beacon Roles 
+# GeekBeacon Roles 
 
 Last updated: 2020/04/01
 
 
- Representative of the [Geek Beacon Charter](https://docs.google.com/document/d/1sQuZykMYVSrWf_GBonoJgXkgFD7_gn_MVXJYaRhRSBU/edit#heading=h.spob4yqx8s72)
+ Representative of the [GeekBeacon Charter](https://docs.google.com/document/d/1sQuZykMYVSrWf_GBonoJgXkgFD7_gn_MVXJYaRhRSBU/edit#heading=h.spob4yqx8s72)
 
 
 ## 1. Creative Division
@@ -104,7 +104,7 @@ Last updated: 2020/04/01
   - Database Administrator
   - Development Consulting Services
     - Discord Bot for example
-    - Support tools for Geek Beacon infrastructure in general.
+    - Support tools for GeekBeacon infrastructure in general.
 
 ## 6. Community Outreach Division
 

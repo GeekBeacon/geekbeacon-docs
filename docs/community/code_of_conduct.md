@@ -3,12 +3,12 @@ id: code_of_conduct
 title: Code Of Conduct
 sidebar_label: Code Of Conduct
 ---
-# Geek Beacon Code Of Conduct
+# GeekBeacon Code Of Conduct
 
 
 # Community
 
-Geek Beacon is a community of nerds, geeks, and other enthusiasts of all types of backgrounds and interests.  We strive to be all-inclusive and bigotry, hate speech and other reprehensible behavior will not be tolerated.  These are the ground rules that we try to abide by in all Geek Beacon activities irrelevant of the medium used to communicate - digital, in person or otherwise.
+GeekBeacon is a community of nerds, geeks, and other enthusiasts of all types of backgrounds and interests.  We strive to be all-inclusive and bigotry, hate speech and other reprehensible behavior will not be tolerated.  These are the ground rules that we try to abide by in all GeekBeacon activities irrelevant of the medium used to communicate - digital, in person or otherwise.
 
 
 ## **Be Respectful**
@@ -49,7 +49,7 @@ Nobody is expected to be perfect in this community. Asking questions early avoid
 
 ## **Be Communicative**
 
-Much of what is done and accomplished at Geek Beacon is a volunteer project.  We do not expect people to drop their life and join our cause, but if you are unable to fulfil your obligation or what you promised then please let us know earlier rather than later.  You will never be penalized for not being able to attend an event or help with something simply because of other obligations.  
+Much of what is done and accomplished at GeekBeacon is a volunteer project.  We do not expect people to drop their life and join our cause, but if you are unable to fulfil your obligation or what you promised then please let us know earlier rather than later.  You will never be penalized for not being able to attend an event or help with something simply because of other obligations.  
 
 If you take on a project and find yourself needing help or unable to provide the time required to finish it simply reach out and inform the concerned parties.   We all have lives and we do not expect anyone to be losing sleep or forgoing personal obligations in order to get a GB projects off the ground. 
 
