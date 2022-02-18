@@ -1,16 +1,18 @@
 ---
 id: gbf_tutorial
-title: GeekBeacon Fest Tutorials
+title: Geek Beacon Fest Tutorials
 sidebar_label: Tutorials
 ---
 ## 1. How to use Discord
-[Video](https://youtu.be/mzuWCuE-JM8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzuWCuE-JM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 2. How to use the store
-[Video](https://youtu.be/sBRuOIjK8cE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBRuOIjK8cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 3. How to contribue to Open Collective
-[Video](https://youtu.be/Jgqfxud4fCg)
+
+## 3. How to contribute to Open Collective
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jgqfxud4fCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 4. How to donate to GeeksAbroad
-[Video](https://youtu.be/Jn4b-AcSfgA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jn4b-AcSfgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
