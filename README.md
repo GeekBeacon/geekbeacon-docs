@@ -1,8 +1,8 @@
 [![Build Status](https://cloud.drone.io/api/badges/GeekBeacon/geekbeacon-docs/status.svg)](https://cloud.drone.io/GeekBeacon/geekbeacon-docs)
 
 
-# Geek Beacon
-Geek Beacon Designs/ Documentation
+# GeekBeacon
+GeekBeacon Designs/ Documentation
 
 This is a central repository of public documentation both technical 
 and otherwise.
