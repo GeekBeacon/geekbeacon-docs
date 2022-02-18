@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Geek Beacon Documentation Site',
-  tagline: 'Geek Beacon Is Your Guiding Light To All Things Geek!',
+  title: 'GeekBeacon Documentation Site',
+  tagline: 'GeekBeacon Is Your Guiding Light To All Things Geek!',
   url: 'https://geekbeacon.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'geekbeacon.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Geek Beacon Documentation',
+      title: 'GeekBeacon Documentation',
       logo: {
         alt: 'GB Logo',
         src: 'img/logo.png',
