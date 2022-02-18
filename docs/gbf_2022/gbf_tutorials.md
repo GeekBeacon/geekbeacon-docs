@@ -1,6 +1,6 @@
 ---
 id: gbf_tutorial
-title: Geek Beacon Fest Tutorials
+title: GeekBeacon Fest Tutorials
 sidebar_label: Tutorials
 ---
 ## 1. How to use Discord
