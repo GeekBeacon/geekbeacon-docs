@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Validate Documentation Build
 on:
   pull_request:
 
@@ -17,4 +17,3 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build website
         run: yarn build
-
