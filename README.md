@@ -1,4 +1,4 @@
-[![Build Status](https://cloud.drone.io/api/badges/GeekBeacon/geekbeacon-docs/status.svg)](https://cloud.drone.io/GeekBeacon/geekbeacon-docs)
+[![Validate Status](https://github.com/GeekBeacon/geekbeacon-docs/actions/workflows/validate.yml/badge.svg)](https://github.com/GeekBeacon/geekbeacon-docs/actions/workflows/validate.yml)[![Build Status](https://github.com/GeekBeacon/geekbeacon-docs/actions/workflows/publish.yml/badge.svg)](https://github.com/GeekBeacon/geekbeacon-docs/actions/workflows/publish.yml)
 
 
 # GeekBeacon
